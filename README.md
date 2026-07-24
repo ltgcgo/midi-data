@@ -9,12 +9,25 @@ The `octavia` collection is curated for the [Octavia](https://kb.ltgc.cc/octavia
 
 ## Categories
 ### Artists
+- [Adrian Scott](artist/Adrian%20Scott)
+- [Chas Smith](artist/Chas%20Smith)
 - [David J. Reading](artist/David%20J.%20Reading) ([LinkedIn](https://uk.linkedin.com/in/davidjreading))
+- [David Kelly](artist/David%20Kelly)
 - [ElectroKaplosion](artist/ElectroKaplosion) ([YouTube](https://youtube.com/@ElectroKaplosion), [Bandcamp](https://electrokaplosion.bandcamp.com/music))
 - [JayB](artist/JayB) ([website](https://jaybmusic.net), [YouTube](https://youtube.com/@JayBmusic), [Instagram](https://www.instagram.com/jaybmusicnet/))
+- [John Campbell](artist/John%20Campbell)
+- [John Maul](artist/John%20Maul)
+- [Lim Chong Voon](artist/Lim%20Chong%20Voon)
 - Poodle Straight
 - [Sam Sketty](artist/Sam%20Sketty) ([LinkedIn](https://uk.linkedin.com/in/sam-sketty-228797127))
 - TôBach
+- [川口淳一](artist/川口淳一) _Kawaguchi Jun'ichi_
+- [坂上暢](artist/坂上暢) _Sakaue Mitsuru_
+- [原田智宏](artist/原田智宏) _Harada Tomohiro_
+- [平下政志, 平下和子](artist/平下政志,%20平下和子) _Hirashita Masashi, Hirashita Kazuko_
+- [瑞木薫](artist/瑞木薫) _Mizuki Kaoru_
+- [村上昇](artist/村上昇) _Murakami Noboru_
+- [ヲノサトル](artist/ヲノサトル) _Wono Satoru_
 
 ### Vendor
 #### Microsoft
