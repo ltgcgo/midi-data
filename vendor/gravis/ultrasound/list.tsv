@@ -15,11 +15,10 @@ id	file	artist	title	standard	audio	renderer	extra
 13	pnoheavn	Unknown	Piano Heaven	GM	Gravis UltraSound	N/A	
 14	sofunky	Stuart Yoshida	She's So Funky	GM	Gravis UltraSound	Lumière Élevé	Rendered on TiMidity++ with GUS patches.
 15	striving	Tracy Brian Hurst	Striving for Glory	GM	Gravis UltraSound	N/A	
-16	swngcafe.gs	Unknown	Swing Cafe	GS	SC-88 Pro	Lumière Élevé	GUS sounded horrible.
+16	swngcafe	Unknown	Swing Cafe	GM	SC-88 Pro	Lumière Élevé	GUS sounded horrible.
 17	techno78	Unknown	Techno '78	GM	Gravis UltraSound	Lumière Élevé	Rendered on TiMidity++ with GUS patches. An SC-55 version is also offered.
 18	the_rain	Ken Goach	The Rain / Citadel	GM	Gravis UltraSound	Lumière Élevé	Rendered on TiMidity++ with GUS patches. Slight problem with tremolo strings.
 19	tocatta.gs	Al Borges	Toccata and Fugue in D Minor	GS	SC-88	Lumière Élevé	GUS couldn't unlock the potential of the original file.
 20	yelowros	Unknown	Yellow Rose of Texas	GM	Gravis UltraSound	Lumière Élevé	Rendered on TiMidity++ with GUS patches.
 21	dilast1b	Tracy Brian Hurst	The Last Days of Summer	GM	Gravis UltraSound	Advanced Gravis	
 22	tocatta	Al Borges	Toccata and Fugue in D Minor	GM	Gravis UltraSound	Advanced Gravis	
-16	swngcafe	Unknown	Swing Cafe	GM	Gravis UltraSound	Advanced Gravis	
